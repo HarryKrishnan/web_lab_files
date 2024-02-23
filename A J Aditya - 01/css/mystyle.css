@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(14, 107, 92);
+}
+
+p {
+    color: chocolate;
+    text-decoration: wavy;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
